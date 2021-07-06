@@ -1,6 +1,8 @@
 # AasPass-Home-Page
 
-Home page for AasPass<br>
+Home page for AasPass
+<br>
+<br>
 
 ![Screencast from 03-07-21 11_36_24 PM IST](https://user-images.githubusercontent.com/55712612/124363469-004a4700-dc59-11eb-84b9-5a5efc557772.gif)
 ![Screencast from 03-07-21 11_36_33 PM IST](https://user-images.githubusercontent.com/55712612/124363473-02140a80-dc59-11eb-94bb-c66f2350cad4.gif)
@@ -12,4 +14,6 @@ Home page for AasPass<br>
 
 
 
-<br> Check out the homepage here: https://reekrajroy.github.io/AasPass-Home-Page/
+<br>
+<br>
+Check out the homepage here: https://reekrajroy.github.io/AasPass-Home-Page/
